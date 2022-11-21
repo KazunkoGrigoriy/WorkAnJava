@@ -6,7 +6,9 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите число: "); int n = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Hello World! {n}");
         }
     }
 }

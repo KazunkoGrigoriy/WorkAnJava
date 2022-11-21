@@ -1,0 +1,16 @@
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.exe
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.deps.json
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.json
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.dev.json
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.dll
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ref\ConsoleApplication.dll
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.pdb
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.AssemblyReference.cache
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfoInputs.cache
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfo.cs
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.dll
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ref\ConsoleApplication.dll
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.pdb
+D:\java_project\HelloAnt\WorkAnJava\ConsoleApplication\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.genruntimeconfig.cache
